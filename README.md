@@ -8,7 +8,7 @@ Java Backend Developer
 
 * 🌍  I'm based in Tiruchirappalli, Tamilnadu, India
 * ✉️  You can contact me at [manish.anandaeswaran@gmail.com](mailto:manish.anandaeswaran@gmail.com)
-* 🧠  I'm learning Javascript, DSA, System Design and React
+* 🧠  I'm learning Javascript, DSA and System Design
 * 🤝  I'm open to collaborating on Any Java based Projects
 
 ### Skills
