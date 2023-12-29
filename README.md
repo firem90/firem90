@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Backend Developer
 ----------------------
 
-🚀 Howdy, fellow code wranglers! I'm Manish Anandaeswaran, a Java Backend maestro with a penchant for crafting software magic. My coding journey is akin to orchestrating a symphony in the digital realm, where each line of code dances to the rhythm of innovation. 👨‍💻 Armed with a quiver of skills that include Java 8+, SQL sorcery, and a knack for weaving the Spring Framework into elegant solutions, I've spent the last 2 years donning the hat of a Senior Systems Engineer at Infosys Public Services. 🌐 In the vast ecosystem of languages, I'm fluent in Java, SQL, JavaScript, and HTML – the ABCs of the coding cosmos. Spring Boot, Spring Data JPA, and Spring Security & Cloud are my trusty sidekicks, helping me build robust and scalable enterprise applications. ⚙️ Picture me in the agile arena, donning the hat of a Rest API/Middle Tier Solution Developer. I sculpt secure and efficient Spring RESTful APIs, optimizing the business layer for scalability and performance.
+🚀 Howdy, fellow code wranglers! I'm Manish Anandaeswaran, a Java Backend maestro with a penchant for crafting software magic. My coding journey is akin to orchestrating a symphony in the digital realm, where each line of code dances to the rhythm of innovation. 
+👨‍💻 Armed with a quiver of skills that include Java 8+, SQL sorcery, and a knack for weaving the Spring Framework into elegant solutions, I've spent the last 2 years donning the hat of a Senior Systems Engineer at Infosys Public Services. 
+🌐 In the vast ecosystem of languages, I'm fluent in Java, SQL, JavaScript, and HTML – the ABCs of the coding cosmos. Spring Boot, Spring Data JPA, and Spring Security & Cloud are my trusty sidekicks, helping me build robust and scalable enterprise applications. 
+⚙️ Picture me in the agile arena, donning the hat of a Rest API/Middle Tier Solution Developer. I sculpt secure and efficient Spring RESTful APIs, optimizing the business layer for scalability and performance.
 
 * 🌍  I'm based in Tiruchirappalli, Tamilnadu, India
 * ✉️  You can contact me at [manish.anandaeswaran@gmail.com](mailto:manish.anandaeswaran@gmail.com)
