@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Backend Developer
 ----------------------
 
-🚀 Howdy, fellow code wranglers! I'm Manish Anandaeswaran, a Java Backend maestro with a penchant for crafting software magic. My coding journey is akin to orchestrating a symphony in the digital realm, where each line of code dances to the rhythm of innovation.   
+🚀 Howdy, fellow code wranglers! I'm Manish, a Java Backend dev with a penchant for crafting software magic. My coding journey is akin to orchestrating a symphony in the digital realm.
 
 👨‍💻 Armed with a quiver of skills that include Java 8+, SQL sorcery, and a knack for weaving the Spring Framework into elegant solutions, I've spent the last 2 years donning the hat of a Senior Systems Engineer at Infosys Public Services.   
 
